@@ -31,6 +31,11 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 ![image](https://user-images.githubusercontent.com/105740772/170612710-2f677fa2-7229-4c7c-830c-09d56b9b2570.png)
 
 ### Circuito armado de manera real.
+
+![image](https://user-images.githubusercontent.com/105740772/170724486-6ed63c53-432b-4bd9-beca-5ec25e376163.png)
+
+![image](https://user-images.githubusercontent.com/105740772/170724522-fa73e8ac-ad50-4a53-a7af-467db753c923.png)
+
 ### Medición de cada una de las corrientes de malla.
 
 ![image](https://user-images.githubusercontent.com/105740772/170614398-7c3aba59-e8ae-47f5-bea5-4cc0b098d924.png)
@@ -41,8 +46,18 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 ![image](https://user-images.githubusercontent.com/105740772/170614602-c2541e82-332f-4507-b7f3-428962410d9f.png)
 
 ### Resultados obtenidos.
+
 ### Explicación del método de análisis de mallas.
+Se ha asignado a cada una de las mallas un circuito imaginario basado la direccion de la fuente de mayor voltaje, formando una trayectoria cerrada.
+
+![image](https://user-images.githubusercontent.com/105740772/170724411-295d612f-2038-455e-9559-d86f374dab71.png)
+
 ### Resolución de los cálculos.
+
+#### En primer lugar es necesario tener a todas las resistencias en un mismo valor, por lo que todas seran convertidas de kΩ a Ω
+
+![image](https://user-images.githubusercontent.com/105740772/170726644-d3a4f1de-dcd6-4d9b-a5e3-cd350b254fe6.png)
+
 ### Cálculo de error.
 ## 5. Video.
 ## 6. Conclusiones.
