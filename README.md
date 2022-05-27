@@ -50,3 +50,8 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 - La medición de los componentes de la ley de Ohm es un proceso rutinario al momento de tratar de identificar fallas ya que, gracias a estas mediciones se puede averiguar varias cosas como la dirección de la corriente, si el circuito esta conectado correctamente, entre otras.
 
 ## 7. Bibliografía.
+Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. México: Pearson Educación: http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+Salazar, A. (2010). Leyes de voltajes y corrientes de Kirchhoff. Universidad de Los Andes, 1(1), 13–34: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
+Electronnica. (20 de Septiembre de 2012). Electronica completa. Obtenido de: https://electronicacompleta.com/leyes-de-kirchhoff/?sfw=pass1653059613
