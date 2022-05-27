@@ -40,6 +40,7 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 
 ![image](https://user-images.githubusercontent.com/105740772/170614602-c2541e82-332f-4507-b7f3-428962410d9f.png)
 
+### Resultados obtenidos.
 ### Explicación del método de análisis de mallas.
 ### Resolución de los cálculos.
 ### Cálculo de error.
