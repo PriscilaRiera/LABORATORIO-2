@@ -11,6 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/105740772/170615508-ed7fd9b7-f791-4615-ac35-e40583015d71.png)
 
+![image](https://user-images.githubusercontent.com/105740772/170619919-05650a50-4736-4ffd-aec2-0b926f1b5667.png)
+
 ## 3. Explicación del procedimiento.
 ### Materiales y equipos.
 ![image](https://user-images.githubusercontent.com/105740772/170617367-4b509dd7-86e8-47b3-a387-2f1a90dcd510.png)
