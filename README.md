@@ -36,6 +36,10 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 
 ![image](https://user-images.githubusercontent.com/105740772/170724522-fa73e8ac-ad50-4a53-a7af-467db753c923.png)
 
+![image](https://user-images.githubusercontent.com/105740772/171230196-a3a467d7-037c-4b7f-8b3f-4784defc85bc.png)
+
+![image](https://user-images.githubusercontent.com/105740772/171230223-a9eebf71-3914-4573-b3ee-019ebd1f63ec.png)
+
 ### Medición de cada una de las corrientes de malla.
 
 ![image](https://user-images.githubusercontent.com/105740772/170614398-7c3aba59-e8ae-47f5-bea5-4cc0b098d924.png)
