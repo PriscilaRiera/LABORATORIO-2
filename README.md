@@ -58,6 +58,17 @@ Se ha asignado a cada una de las mallas un circuito imaginario basado la direcci
 
 ![image](https://user-images.githubusercontent.com/105740772/170726644-d3a4f1de-dcd6-4d9b-a5e3-cd350b254fe6.png)
 
+#### Luego se procede a elaborar una ecuación por cada malla ya definida
+
+#### Malla 1
+
+![image](https://user-images.githubusercontent.com/105740772/171200451-93fc128d-afa0-4165-80fe-c80437d24d0d.png)
+
+#### Malla 2
+#### Malla 3
+
+![image](https://user-images.githubusercontent.com/105740772/171199927-da94b917-e956-45a1-803d-2c5c978eb9de.png)
+
 ### Cálculo de error.
 ## 5. Video.
 ## 6. Conclusiones.
