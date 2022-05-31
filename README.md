@@ -47,6 +47,8 @@ Se procede a recrear el circuito mostrado en el esquema siguiente de forma real 
 
 ### Resultados obtenidos.
 
+![image](https://user-images.githubusercontent.com/105740772/171228469-e81dac1c-7176-49e9-af6d-efa0bbb7ee53.png)
+
 ### Explicación del método de análisis de mallas.
 Se ha asignado a cada una de las mallas un circuito imaginario basado la direccion de la fuente de mayor voltaje, formando una trayectoria cerrada.
 
@@ -65,11 +67,20 @@ Se ha asignado a cada una de las mallas un circuito imaginario basado la direcci
 ![image](https://user-images.githubusercontent.com/105740772/171200451-93fc128d-afa0-4165-80fe-c80437d24d0d.png)
 
 #### Malla 2
+
+![image](https://user-images.githubusercontent.com/105740772/171219210-1c4b7db9-fbc4-4780-8410-069197af9ef6.png)
+
 #### Malla 3
 
 ![image](https://user-images.githubusercontent.com/105740772/171199927-da94b917-e956-45a1-803d-2c5c978eb9de.png)
 
 ### Cálculo de error.
+
+![image](https://user-images.githubusercontent.com/105740772/171227980-3791039e-e7bc-497b-a206-7d535e23372f.png)
+
+### Comparación de las mediciones.
+- Al realizar el cálculo del error se puede notar que hay cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
+ 
 ## 5. Video.
 ## 6. Conclusiones.
 - Las aplicaciones de las leyes se ven reflejadas en el análisis de mallas ya que, se puede averiguar valores desconocidos o comprobar si nuestro circuito funciona de manera adecuada y cumplirá con su objetivo previsto.
