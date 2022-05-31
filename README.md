@@ -86,6 +86,9 @@ Se ha asignado a cada una de las mallas un circuito imaginario basado la direcci
 - Al realizar el cálculo del error se puede notar que hay cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
  
 ## 5. Video.
+
+https://youtu.be/g17jOwA2yoY
+
 ## 6. Conclusiones.
 - Las aplicaciones de las leyes se ven reflejadas en el análisis de mallas ya que, se puede averiguar valores desconocidos o comprobar si nuestro circuito funciona de manera adecuada y cumplirá con su objetivo previsto.
 - La medición de los componentes de la ley de Ohm es un proceso rutinario al momento de tratar de identificar fallas ya que, gracias a estas mediciones se puede averiguar varias cosas como la dirección de la corriente, si el circuito esta conectado correctamente, entre otras.
